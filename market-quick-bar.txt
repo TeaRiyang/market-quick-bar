@@ -1,0 +1,231 @@
++ 000 PLEX
+- PLEX
++ 001 Skill Inj/Ext/Acc; スキル操作
+- Daily Alpha Injector
+- Large Skill Injector
+- Skill Extractor
+- Small Skill Injector
++ 002 Skill Book; スキル本
++ 010 Ore; 鉱石
+- Arkonor
+- Flawless Arkoner
+- Omber
+- Silvery Omber
+- Golden Omber
+- Crokite
+- Crystalline Crokite
+- Pellucid Crokite
+- Sharp Crokite
+- Kernite
+- Fiery Kernite
+- Luminous Kernite
+- Pristine Jaspet
+- Pure Jaspet
+- Scordite
+- Massive Scordite
+- Comdensed Scordite
+- Talassonite
+- Abyssal Talassonite
+- Gneiss
+- Iridescent Gneiss
+- Brilliant Gneiss
+- Pyrozeres
+- Solid Pyrozeres
+- Viscous Pyrozeres
+- Bistot
+- Triclinic Bistot
+- Plagioclase
+- Rich Plagioclase
+- Bezdnacine
+- Hedbergite
+- Glazed Hedbergite
+- Vitric Hedbergite
+- Hemorphite
+- Radiant Hemorphite
+- Vivid Hemorphite
+- Veldspar
+- Dense Veldspar
+- Concentrated Veldspar
+- Mercoxit
+- Vitreous Mercoxit
+- Magma Mercoxit
+- Rakovene
++ 011 Sulvaging; 回収部品
+++ for T1 Rig
+-- Alloyed Tritanium Bar
+-- Armor Plates
+-- Broken Drone Transceivers
+-- Burned Logic Circuit
+-- Charred Micro Circuit
+-- Conductive Polymer
+-- Contaminated Lorentz Fluid
+-- Contaminated Nanite Compound
+-- Damaged Artificial Neural Network
+-- Defective Current Pump
+-- Fried Interface Circuit
+-- Malfunctioning Shield Emitter
+-- Melted Capacitor Console
+-- Scorched Telemetry Processor
+-- Smashed Trigger Unit
+-- Tangled Power Conduit
+-- Thruster Console
+-- Tripped Power Circuit
+-- Ward Console
+++ for T2 Rig
+-- Artificial Neural Network
+-- Capacitor Console
+-- Conductive Thermoplastic
+-- Current Pump
+-- Drone Transceiver
+-- Enhanced Ward Console
+-- Impetus Console
+-- Intact Armor Plates
+-- Intact Shield Emitter
+-- Interface Circuit
+-- Logic Circuit
+-- Lorentz Fluid
+-- Micro Circuit
+-- Nanite Compound
+-- Power Circuit
+-- Power Conduit
+-- Single-crystal Superalloy I-beam
+-- Telemetry Processor
+-- Trigger Unit
++ 013 Mineral; 無機物(←再処理)
+- Chromodynamic Tricarboxyls
+- Isogen
+- Megacyte
+- Mexallon
+- Morphite
+- Nocxium
+- Pyerite
+- Tritanium
+- Zydrine
++ 100 S  Shuttle;      小型・特殊艦・移動専用
+- Caldari Shuttle
++ 110 S  Corbet MP;    小型・小型快走艦・多目的向け
+- Ibis
++ 120 S  FF Striker;   小型・快走艦・直接戦闘向け
+- Condor
+- Kestrel
+- Merlin
+++ Navy; 海軍仕様
+-- Caldai Navy Hookbill
++ 121 S  FF Buffer;    小型・快走艦・支援向け
+- Bantam
++ 122 S  FF Debuffer;  小型・快走艦・妨害向け
+- Griffin
+++ Navy; 海軍仕様
+-- Griffin Navy Issue
++ 125 S  FF Explorer;  小型・快走艦・探索向け
+- Heron
+- Venture
++ 127 S  FF Sulvaging; 小型・快走艦・回収向け
+- Venture
++ 128 S  FF Mining;    小型・快走艦・採掘向け
+- Venture
++ 130 S  DD Striker;   小型・駆逐艦・直接戦闘向け
+- Corax
+- Cormorant
+++ T2
+-- Flycatcher
+++ T3
+-- Jackdaw
++ 134 S  DD Command;   小型・指揮型駆逐艦・特殊戦向け
+++ T2
+-- Stork
++ 140 M  CL Striker;   中型・巡洋艦・直接戦闘向け
+- Caracal
+- Moa
+++ Navy; 海軍仕様
+-- Caracal Navy Issue
+++ T2; 強襲型巡洋艦
+-- Cerberus
+-- Eagle
++ 141 M  CL Buffer;    中型・巡洋艦・支援向け
+- Osprey
+++ Navy; 海軍仕様
+-- Osprey Navy Issue
+++ T2
+-- Basilisk
++ 142 M  CL Debuffer;  中型・巡洋艦・妨害向け
+- Blackbird
+++ T2; 電子戦特化型
+-- Rook
+++ T2+Cloaking; 偵察奇襲対応型
+-- Falcon
+++ T2+Bubble; ワープ妨害対応型
+-- Onyx
++ 145 M  CL Strategic; 中型・戦略的巡洋艦・多目的向け
+++ T3
+-- Tengu
++ 146 M  Haular;       中型・輸送艦・輸送専用
+- Bader
+- Tayra
+++ T2/Cloaking;   封鎖突破型輸送艦(=軽トラ)
+- Crane
+++ T2/Diffensive; 深宇宙用輸送艦(=重トラ)
+- Bustard
++ 147 M  Sulvaging;    中型・特殊艦・回収向け
+- Noctis
++ 148 M  Mining;       中型・採掘艦・採掘専用
+++ 採掘量特化型 (採掘◎・装甲×・積載量×)
+-- Covetor
++++ T2
+--- Hulk
+++ 装甲特化型 (採掘○・走行◎・積載量○)
+-- Procurer
++++ T2
+--- Skiff
+++ 積載量特化型 (採掘○・装甲×・積載量◎)
+- Retriever
++++ T2
+--- Mackinaw
++ 149 M  ICS;          中型・工業指揮艦・採掘支援専用
+- Porpoise
++ 150 M  BC Striker;   中型・巡洋戦艦・直接戦闘向け
+- Drake
+- Ferox
+++ Tier3; 強襲巡洋戦艦(Lタレット対応型)
+-- Naga
+++ Navy; 海軍仕様
+-- Drake Navy Issue
+++ T2 Attack Command;  攻撃指揮型巡洋戦艦
+-- Nighthawk
+++ T2 Fleet Command; 艦隊指揮型巡洋戦艦(CB範囲+100%)
+-- Vulture
++ 160 L  BS Striker;   大型・戦艦・直接戦闘向け
+- Raven
+- Rokh
+++ Navy; 海軍仕様
+-- Raven Navy Issue
+++ T2 Black ops.; 秘密工作戦艦
+-- Widow
+++ T2; 強襲型戦艦(ミッションランナーの憧れ)
+-- Golem
++ 162 L  BS Debuffer;  大型・戦艦・妨害向け
+- Scorpion
+++ Navy; 海軍仕様
+-- Scorpion Navy Issue
++ 165 S  BS Explorer;  大型・戦艦・探索向け
+++ Faction; 海賊仕様
+-- Nestor
++ 169 L  ICS;          大型・工業指揮艦・採掘支援専用
+- Orca
++ 170 XL C/DN Striker; 超大型・主力艦/攻城艦・直接打撃向け
+- Phoenix
++ 171 XL C/FAX Buffer; 超大型・主力艦/軍事力補強艦・支援向け
+- Minokawa
++ 172 XL C/CV;         超大型・主力艦/艦載機空母艦・間接打撃向け
+- Chimera
++ 173 XL C/MS;         超大型・主力艦/大型艦載機空母艦・間接打撃向け
+- Wyvern
++ 176 XL C/Freighter;  超大型・主力艦/超大型輸送艦・輸送専用
+- Charon
+- Bowhead
+++ T2 Jump Freighter; ジャンプ対応型超大型輸送艦
+-- Rhea
++ 179 XL C/CIS;        超大型・主力艦/採掘支援母艦・採掘支援専用
+- Rorqual
++ 174 XL C/Titan;      超大型・主力艦/旗艦級戦艦・直接打撃向け
+- Leviathan
